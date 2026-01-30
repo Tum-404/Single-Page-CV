@@ -6,13 +6,13 @@ This project is part of the [roadmap.sh – Single Page CV](https://roadmap.sh/p
 
 ---
 
-## � Live Demo
+## 🌐 Live Demo
 
 Check out the live demo: [https://tum-404.github.io/Single-Page-CV/](https://tum-404.github.io/Single-Page-CV/)
 
 ---
 
-## �🎯 Project Goals
+## 🎯 Project Goals
 
 * Practice writing **clean and semantic HTML5**
 * Create a well-structured, readable CV layout
